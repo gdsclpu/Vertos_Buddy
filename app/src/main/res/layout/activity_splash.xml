@@ -29,7 +29,7 @@
         android:fontFamily="@font/poppins"
         android:text="@string/splash"
         android:textAppearance="?android:textAppearanceLarge"
-        android:textColor="#ffffff"
+        android:textColor="#FF5722"
         android:textSize="50sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
