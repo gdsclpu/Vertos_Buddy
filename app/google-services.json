@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487707143407",
+    "project_id": "vertos-buddy",
+    "storage_bucket": "vertos-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487707143407:android:9b7d05fdaddf9a2696bf1a",
+        "android_client_info": {
+          "package_name": "vertos.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487707143407-fpc338oqs0je8vtv06q7hef6hfiqrea3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm845iabdbnLbGYnvoLqgd4onAw4DYi2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487707143407-fpc338oqs0je8vtv06q7hef6hfiqrea3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
