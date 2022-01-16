@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VertosBuddy">
         <activity
-            android:name=".ui.browserview.BrowserView"
-            android:exported="false" />
-        <activity
             android:name=".splash"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <intent-filter>
