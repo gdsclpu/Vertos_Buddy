@@ -14,10 +14,14 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
+import com.google.firebase.analytics.FirebaseAnalytics
 import vertos.buddy.databinding.ActivityMainBinding
 import vertos.buddy.ui.browserview.BrowserView
 
 class MainActivity : AppCompatActivity() {
+
+    private lateinit var analytics: FirebaseAnalytics
+// Obtain the FirebaseAnalytics instance.
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
