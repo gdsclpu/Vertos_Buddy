@@ -21,10 +21,10 @@ class BrowserView : AppCompatActivity() {
         supportActionBar?.hide()
         setContentView(R.layout.activity_browser_view)
 
-
         val webView: WebView = findViewById(R.id.webView)
+        webView.settings.javaScriptEnabled = true
         webView.webViewClient = MyWebViewClient(this)
-        webView.loadUrl("https://www.javatpoint.com/")
+        webView.loadUrl("https://www.iviewd.com/lpu/")
     }
 }
 
