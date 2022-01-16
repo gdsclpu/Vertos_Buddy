@@ -15,9 +15,9 @@ The university management project "Vertos Buddy" aims to ensure that an app can 
 Technology plays an important part in our day-to-day routines, resulting in significant changes in many sectors of work, with Mobile Application being among the most significant advances. Because, mobile applications are extensively utilised and are recognised for their ease of use, they may be utilised efficiently for this job. 
 This project proposes a University Academics and Management System to keep track of the various apps and websites of the university  at one place.
 
-<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsclpu/Vertos_Buddy/screenshots/vertos1.jpg">
-<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsclpu/Vertos_Buddy/screenshots/vertos2.jpg">
-<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsclpu/Vertos_Buddy/screenshots/vertos3.jpg">
+<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsclpu/Vertos_Buddy/samson/screenshots/vertos1.jpg">
+<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsclpu/Vertos_Buddy/samson/screenshots/vertos2.jpg">
+<img width="559" alt="sampleimages" src="https://raw.githubusercontent.com/gdsclpu/Vertos_Buddy/samson/screenshots/vertos3.jpg">
 
 <br />
 <b> With Following Functionalities </b>
